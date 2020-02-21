@@ -1,7 +1,8 @@
 # Algorithms-Coding
 
 # Homework 4 - Hard coding
-
+Algorithmic Methods of Data Mining 
+by Alessio Sampieri, Salwa Afrah
 **Goal of the homework**: write important algorithms and function from scratch.
 
 ## 1. Hashing task!
